@@ -1,5 +1,3 @@
-// src/components/GalleryImage.jsx
-import React from "react"
 import { useNavigate } from "react-router-dom"
 
 const GalleryImage = ({ src, alt, collectionId, caption }: any) => {

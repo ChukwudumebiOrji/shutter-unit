@@ -1,5 +1,3 @@
-// src/components/Gallery.jsx
-import React from "react"
 import GalleryImage from "../layout/galleryImage"
 import PicturesGrid from "../layout/picturesGrid"
 import Header from "../layout/header"
